@@ -10,7 +10,7 @@
  *
  * @author Wil Wade <wil@supplyhog.com>
  * @license MIT http://opensource.org/licenses/MIT
- * @copyright (c) 2012, SupplyHog Inc.
+ * @copyright (c) 2013, SupplyHog Inc.
  * @package phpOptics
  *
  */
